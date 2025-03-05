@@ -110,7 +110,7 @@
   },
 
   "include": [
-    "classes" 
+    "interfaces" 
   ]
 
 }
