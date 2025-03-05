@@ -24,15 +24,15 @@
     // puede ser de tipo villian o mutante al sert una clase extendida pero si es de tipo mutante no me va a permitir llamar el metodo que tengo en la class villian 
     const magneto: Villian = new Villian('Magneto', 'Magnus');
 
-    console.log(wolverine.salvarAlMundo());
-    console.log(magneto.conquitarMundo());
+    // console.log(wolverine.salvarAlMundo());
+    // console.log(magneto.conquitarMundo());
 
     const printName = ( character: Mutante ) => {
         console.log(character.realName);
     }
 
-    printName(wolverine);
-    printName(magneto);
+    // printName(wolverine);
+    // printName(magneto);
     
     
 
